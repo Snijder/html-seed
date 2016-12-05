@@ -1,0 +1,13 @@
+{
+  "name": "your-application-name",
+  "authors": [
+    "Username <email@example.com>"
+  ],
+  "description": "Lorem ipsum",
+  "main": "app/index.html",
+  "license": "",
+  "homepage": "",
+  "private": true,
+  "dependencies": { 
+  }  
+}
