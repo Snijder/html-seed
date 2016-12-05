@@ -14,7 +14,7 @@
   },
   "scripts": {
     "postinstall": "bower install && gulp index",
-    "start": "http-server ./app -a localhost -p 80 -c-1",
+    "start": "http-server ./app -a localhost -p 80 -c-1"
    },
   "dependencies": {
   }
